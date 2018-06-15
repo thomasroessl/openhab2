@@ -1,6 +1,6 @@
 {
   "name": "thomasr-openhab2",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "thomasr",
   "summary": "Installs openHAB 2",
   "license": "MIT",
