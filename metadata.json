@@ -19,6 +19,18 @@
       "operatingsystemrelease": [
         "16.04"
       ]
+    },
+    {
+      "operatingsystem": "Raspbian",
+      "operatingsystemrelease": [
+        "8"
+      ]
+    },
+    {
+      "operatingsystem": "Debian",
+      "operatingsystemrelease": [
+        "8"
+      ]
     }
   ],
   "dependencies": [
