@@ -44,7 +44,7 @@ class openhab2 {
         require => Exec['aptget-addkey']
       }
       exec { 'aptget-update':
-        command => "sudo apt-get update",
+        command => 'sudo apt-get update',
         path    => '/usr/bin',
         require => Exec['aptget-addrepo']
       }
